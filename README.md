@@ -47,5 +47,5 @@ Aplicação voltada para prática de boas práticas de desenvolvimento, estrutur
 
 ## Contato
 
-- LinkedIn: [Matheus Moura Marrara](#https://br.linkedin.com/in/matheus-moura-marrara-0922a0140)
+- LinkedIn: [Matheus Moura Marrara](https://br.linkedin.com/in/matheus-moura-marrara-0922a0140)
 - E-mail: [theusmm75@gmail.com](mailto:theusmm75@gmail.com)
